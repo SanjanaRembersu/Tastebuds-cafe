@@ -7,4 +7,4 @@ Includes:
 - About Us & Contact section  
 - Customer Reviews  
 
-🌐 Live Demo: https://SanjanaRembersu.github.io/tastebuds-cafe/
+🌐 Live Demo:https://sanjanarembersu.github.io/Tastebuds-cafe
